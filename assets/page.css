@@ -1,5 +1,5 @@
 /* coming-soon page */
-.soon{min-height:calc(100vh - 68px - 112px);display:flex;align-items:center;padding:72px 0}
+.soon{min-height:calc(100vh - 38px - 68px - 112px);display:flex;align-items:center;padding:72px 0}
 .soon h1{max-width:760px}
 .soon .lead{max-width:620px}
 .chip-soon{display:inline-block;margin-top:28px;font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--teal2);background:var(--tealtint);border-radius:99px;padding:6px 16px}
